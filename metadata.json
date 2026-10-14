@@ -1,0 +1,6 @@
+{
+  "name": "MathVerse",
+  "description": "Explora el universo de las matemáticas: plataforma educativa interactiva con laboratorio matemático, lecciones paso a paso y zona de desafíos arcade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
